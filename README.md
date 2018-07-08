@@ -14,3 +14,6 @@
 9.  [应用维护](https://github.com/2019web/web_repository/blob/master/web%E5%BA%94%E7%94%A8%E8%BF%90%E7%BB%B4 ) 
 10. [应用性能以及可用性分析](https://github.com/2019web/web_repository/blob/master/task11.pdf )
 11. [安全性分析](https://github.com/2019web/web_repository/blob/master/security)
+
+
+  本系统部署在本地。
