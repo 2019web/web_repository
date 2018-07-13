@@ -4,7 +4,7 @@ web_repository
 # web网上书店
 
 ![Logo](https://raw.githubusercontent.com/2019web/web_repository/master/WikiPage_LOGO/LOGO.png)
-
+  本系统实现了一个网上书店系统，顾客可以先注册，然后登录，通过系统推荐的书籍选择心仪的图书，加入购物车下单，并可以查询订单信息；管理员可以处理订单、增加顾客、图书以及其种类等。
 ## 项目开发环境：
 *  部署在本地;
 *  Window 10;
