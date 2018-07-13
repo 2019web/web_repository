@@ -17,7 +17,7 @@ web_repository
 *  前端框架: jquery + layer
 ## 数据库表设计
 
-类目表: category：
+*类目表: category：
 
 |列名|	类型|	说明|	备注|
 |-|:-:|:-:|:-:|
@@ -25,7 +25,8 @@ web_repository
 |name|	varchar|	名称	|
 
 
-图书表: book：
+*图书表: book：
+
 |列名|	类型|	说明|	备注|
 |-|:-:|:-:|:-:|
 |id	|int|	id|	主键|
@@ -42,7 +43,8 @@ web_repository
 |category_id|	bit|	类目Id|	外键|
 
 
-订单表: indent：
+*订单表: indent：
+
 |列名|	类型|	说明|	备注|
 |-|：-：|：-：|:-:|
 |id|	int|	id|	主键|
@@ -56,7 +58,8 @@ web_repository
 |user_id|	int|	下单用户|	外键|
 
 
-订单项表: items：
+*订单项表: items：
+
 |列名|	类型|	说明|	备注|
 |-|：-：|：-：|：-：|
 |id|	int|	id|	主键|
@@ -66,7 +69,8 @@ web_repository
 |indent_id|	int|	订单id|	外键|
 
 
-用户表: users：
+*用户表: users：
+
 |列名|	类型|	说明|	备注|
 |-|：-：|：-：|：-：|
 |id|	int|	id|	主键|
@@ -74,7 +78,8 @@ web_repository
 |password|	varchar|	密码|	
 
 
-管理员表: admin：
+*管理员表: admin：
+
 |列名|	类型|	说明|	备注|
 |-|:-:|:-:|:-:|
 |id|	int|	id|	主键|
