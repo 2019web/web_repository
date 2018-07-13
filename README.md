@@ -46,7 +46,7 @@ web_repository
 *订单表: indent：
 
 |列名|	类型|	说明|	备注|
-|-|：-：|：-：|:-:|
+|-|:-:|:-:|:-:|
 |id|	int|	id|	主键|
 |total|	float|	总价|	
 |amount|	float|	商品总数|	
@@ -61,7 +61,7 @@ web_repository
 *订单项表: items：
 
 |列名|	类型|	说明|	备注|
-|-|：-：|：-：|：-：|
+|-|:-:|:-:|:-:|
 |id|	int|	id|	主键|
 |price|	float|	购买时价格|	
 |amount|	int|	数量|	
@@ -72,7 +72,7 @@ web_repository
 *用户表: users：
 
 |列名|	类型|	说明|	备注|
-|-|：-：|：-：|：-：|
+|-|:-:|:-:|:-:|
 |id|	int|	id|	主键|
 |username|	varchar|	用户名|	
 |password|	varchar|	密码|	
